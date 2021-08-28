@@ -1,4 +1,4 @@
-# Public Shootings and Taxi: Risk Analysis & Optimization
+# Public Shootings and Taxi: Risk Analysis & Minimization
 > by Shromann Majumder
 ---
 This Project aims to **Explore**, **Analyse** and **Model** *Public Shootings Risk NYC Cars Face*, as well as propose a solution to *minimize* this risk. 
