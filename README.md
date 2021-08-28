@@ -1,10 +1,10 @@
 # Public Shootings and Taxi: Risk Analysis & Optimization
 > by Shromann Majumder
 ---
+This Project aims to Explore, Analyse and Model Public Shootings Risk NYC Cars Face, as well as propose a solution to minimize this risk. 
 
 ## Important Note
 If you're running for the first time, please run `Exploratory Analysis.ipynb`'s first code cell to download the data.
-
 
 ## Dependencies
 - Language: Python 3.8.3
@@ -16,9 +16,7 @@ If you're running for the first time, please run `Exploratory Analysis.ipynb`'s 
 - NYPD Shootings: https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8: NYPD Shootings Time and Location
 
 ## Directory
-- `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. 
-- `plots`: Output and save all your figures here.
-
-
-
-
+- `raw_data`: ALl Datasets used are stored here
+- `plots`: All plots are saved here
+- `Exploratory Analysis.ipynb`: Notebook where we conduct Exploratory Analysis
+- `Risk Analysis & Modelling.ipynb`: Notebook where we Analyse and Model Risk of Taxi, as well as propose a solution.
