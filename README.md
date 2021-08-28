@@ -1,5 +1,9 @@
 # Public Shootings and Taxi: Risk Analysis & Optimization
 > by Shromann Majumder
+---
+
+### Important Note
+If you're running for the first time, please run `Exploratory Analysis.ipynb`'s first code cell to download the data.
 
 
 ## Dependencies
@@ -15,7 +19,6 @@
 - `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. 
 - `plots`: Output and save all your figures here.
 
-### Final Note
-If you're running for the first time, please run `Exploratory Analysis.ipynb`'s first code cell to download the data.
+
 
 
